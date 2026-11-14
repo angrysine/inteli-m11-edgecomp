@@ -1,3 +1,31 @@
+# EdgeComp
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 11 · 2024
+
+## O que foi desenvolvido
+
+Projeto de inteligência artificial com processamento na borda para contagem de árvores em imagens de satélite, voltado ao monitoramento de áreas florestais.
+
+**Parceiro / contexto:** Abundance.
+
+## Tecnologias e conceitos
+
+IA · Visão computacional · Edge computing.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/Inteli-College/2024-2A-T02-EC11-G01) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
